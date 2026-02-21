@@ -1,0 +1,5 @@
+city = ("Almaty", "Astana", "Shymkent")
+it = iter(city)
+print(next(it))
+print(next(it))
+print(next(it))
